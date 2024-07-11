@@ -6,7 +6,7 @@ import Contact from "./Contact";
 
 const Home = () => {
   const data = {
-    heading: "Empowering Your Business us",
+    heading: "Empowering Your Business with us",
     para: "Welcome to our IT agency, where technology meets innovation. We specialize in a wide range of fields, including web development, software engineering, and cybersecurity.",
     img: "images/hero.svg",
   };
