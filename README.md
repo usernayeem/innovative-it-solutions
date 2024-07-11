@@ -2,7 +2,7 @@
 
 ## Authors
 
- [@md5nayeem](https://www.github.com/md5nayeem)
+ [Md Nayeem](https://www.github.com/usernayeem)
 
 ## About
 
@@ -18,7 +18,7 @@ https://innovative-it-solutions.netlify.app/
 
 To install this application, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/md5nayeem/innovative-it-solutions`
+1. Clone this repository: `git clone https://github.com/usernayeem/innovative-it-solutions`
 2. Navigate to the project directory: `cd innovative-it-solutions`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
